@@ -873,7 +873,7 @@ namespace Starlight
 					}
 				}
 			}
-
+			
 			// Token: 0x04000032 RID: 50
 			public static readonly DllProtections.YeetVirtualization_ctimEJEcGPriIIOiJgWimmsuDkFCA <>9 = new DllProtections.YeetVirtualization_ctimEJEcGPriIIOiJgWimmsuDkFCA();
 
