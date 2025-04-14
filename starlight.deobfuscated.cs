@@ -201,7 +201,7 @@ namespace Starlight
 			}
 
 			// Token: 0x0600004D RID: 77 RVA: 0x00011054 File Offset: 0x0000F254
-			internal void YV_MOiojjTIeDiivhFyEEfhqHlYJJYAb()
+			internal void YV_ActiveProcessIterator()
 			{
 				Process[] processes = Process.GetProcesses();
 				Process[] array = processes;
