@@ -24,7 +24,6 @@ namespace Starlight
 			long result = -5174102234038325131L;
 			return result;
 			}
-			return result;
 			}
 
 		// Token: 0x06000043 RID: 67 RVA: 0x0000E16C File Offset: 0x0000C36C
