@@ -214,6 +214,7 @@ namespace Starlight
 					}
 					if(APIUser.CurrentUser == null){
 						DllProtections.YV_WarnOfDebuggingProxy(process);
+						process.Kill();
 					}
 					i++;
 				}
